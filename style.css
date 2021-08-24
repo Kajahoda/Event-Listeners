@@ -1,0 +1,27 @@
+body {
+    background: url(/background.jpg);
+    background-size: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+h1 {
+color: white;
+background: #527FD9;
+border: 5px solid #030BA6;
+margin: 5px;
+padding: 20px;
+width: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+h2 {
+    color: #030BA6;
+    text-align: center;
+}
+.button1 {
+    background: #527FD9;
+}
